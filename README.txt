@@ -1,13 +1,10 @@
 
 TITLE: 
-Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
+Home - Ryan Parry
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+AUTHOR: Ryan Parry
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://ryan-parry.co.uk
 
 
 CREDITS:
